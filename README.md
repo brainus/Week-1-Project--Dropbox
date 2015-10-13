@@ -14,7 +14,8 @@ Walkthrough of all the app stories:
 
 Video Walkthrough
 
-https://raw.githubusercontent.com/brainus/Week-1-Project--Dropbox/master/Week%201%20Project%20Demo%20-%20Bill.gif	
+![Video Walkthrough](https://raw.githubusercontent.com/brainus/Week-1-Project--Dropbox/master/Week%201%20Project%20Demo%20-%20Bill.gif)
+
 What did I miss?
 
 The GIF was created with LiceCap.
